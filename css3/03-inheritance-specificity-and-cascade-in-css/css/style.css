@@ -1,0 +1,35 @@
+body {
+    border: 3px solid orange;
+    font-family: Arial;
+    color: steelblue;
+}
+
+.title {
+    border: inherit;
+}
+
+input {
+    font-size: 25px;
+    color: inherit;
+}
+
+
+/* #title {
+    color: purple;
+    font-family: Verdana;
+}
+
+.title {
+    color: royalblue;
+    font-family: Arial;
+}
+
+h1.title {
+    color: crimson !important;
+    font-family: cursive;
+} */
+
+/* h1 {
+    color: seagreen;
+    color: black;
+} */
