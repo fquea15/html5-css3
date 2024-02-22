@@ -1,0 +1,26 @@
+[value] {
+    display: block;
+    width: 90%;
+    margin-top: 20px;
+}
+
+[type="submit"]{
+    /* background-color: yellow; */
+}
+
+/* [value~="Aqui"] {
+    background-color: yellow;
+} */
+
+/* [value^="Aqui"] {
+    background-color: yellow;
+} */
+
+
+/* [value$="Aqui"] {
+    background-color: yellow;
+} */
+
+[value*="Aqui"] {
+    background-color: yellow;
+}
